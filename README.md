@@ -1,0 +1,2 @@
+# DjangoBeginnerCourse
+Basic Tutorials
